@@ -4,73 +4,57 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>About – Beauty &amp; You</title>
-<meta name="description" content="About Beauty & You: who we are, what we recommend and how this site earns money.">
+<meta name="description" content="Beauty & You shares style guides and affordable picks in bags, jewelry and accessories for women who love an elegant everyday look.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#F7F6F4;--ink:#2A1F2D;--muted:#6B5F6E;--rose:#D9B5B8;--gold:#9A7A3E;--line:#E2DCDD;--card:#FFFFFF;
-box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1E1620;--ink:#F3ECEE;--muted:#B9AEBB;--rose:#8E6A70;--gold:#D2B27A;--line:#3A2E3D;--card:#2A2030}}
-:root[data-theme="dark"]{--bg:#1E1620;--ink:#F3ECEE;--muted:#B9AEBB;--rose:#8E6A70;--gold:#D2B27A;--line:#3A2E3D;--card:#2A2030}
-html{scroll-padding-top:env(safe-area-inset-top,0px)}
+:root{--bg:#F7F3EE;--ink:#2B2523;--muted:#6E625B;--accent:#A9886B;--line:#E4DCD3}
 *{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:Jost,system-ui,sans-serif;font-size:17px;line-height:1.6}
-a{color:inherit}
-:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
-.wrap{max-width:1040px;margin:0 auto;padding:0 22px}
-header{display:flex;justify-content:space-between;align-items:center;padding:22px 0;border-bottom:1px solid var(--line)}
-.logo{font-family:"Cormorant Garamond",Georgia,serif;font-size:26px;font-weight:600;text-decoration:none;letter-spacing:.02em}
-nav a{margin-left:22px;text-decoration:none;color:var(--muted);font-size:15px}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:'Jost',system-ui,sans-serif;font-weight:300;font-size:18px;line-height:1.75}
+a{color:var(--ink)}
+header{display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;padding:22px 6vw;border-bottom:1px solid var(--line)}
+.logo{font-family:'Cormorant Garamond',serif;font-size:28px;font-weight:600;text-decoration:none;letter-spacing:.5px}
+nav a{margin-left:22px;text-decoration:none;font-size:15px;letter-spacing:.8px;text-transform:uppercase;color:var(--muted)}
 nav a:hover{color:var(--ink)}
-.hero{padding:84px 0 64px;max-width:720px}
-.hero h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:clamp(44px,9vw,84px);line-height:1.02;margin:0 0 22px}
-.hero p{color:var(--muted);max-width:520px;margin:0 0 30px}
-.btn{display:inline-block;background:var(--ink);color:var(--bg);padding:14px 26px;text-decoration:none;font-weight:500;border-radius:2px}
-h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:36px;margin:0 0 8px}
-.sub{color:var(--muted);margin:0 0 28px}
-section{padding:56px 0;border-top:1px solid var(--line)}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
-.cat{background:var(--card);border:1px solid var(--line);padding:0 0 18px;text-decoration:none}
-.cat .sw{height:130px;margin-bottom:16px}
-.cat h3{margin:0 18px 4px;font-family:"Cormorant Garamond",Georgia,serif;font-size:24px;font-weight:600}
-.cat p{margin:0 18px;color:var(--muted);font-size:15px}
-.s1{background:var(--rose)}.s2{background:var(--gold);opacity:.75}.s3{background:var(--line)}.s4{background:var(--ink);opacity:.85}
-.post{padding:20px 0;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:16px;align-items:baseline}
-.post h3{margin:0;font-weight:500;font-size:19px}
-.post span{color:var(--muted);font-size:14px;white-space:nowrap}
-.about{max-width:620px}
-form{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}
-input{flex:1 1 220px;padding:13px 14px;border:1px solid var(--line);background:var(--card);color:var(--ink);font:inherit;border-radius:2px}
-button{padding:13px 24px;border:0;background:var(--ink);color:var(--bg);font:inherit;font-weight:500;cursor:pointer;border-radius:2px}
-footer{padding:36px 0 48px;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
-@media (max-width:560px){nav a{margin-left:14px}.post{flex-direction:column;gap:2px}}
-article{max-width:680px;padding:48px 0 24px}article h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:clamp(34px,7vw,56px);line-height:1.08;margin:0 0 14px}article h2{font-size:28px;margin:40px 0 6px}article p{margin:0 0 16px}.meta{color:var(--muted);font-size:14px;margin-bottom:28px}.note{border-left:3px solid var(--gold);padding:4px 0 4px 16px;color:var(--muted);margin:28px 0}.back{display:inline-block;margin-bottom:8px;color:var(--muted);text-decoration:none;font-size:15px}</style>
+main{max-width:760px;margin:0 auto;padding:64px 6vw 80px}
+.kicker{font-size:13px;letter-spacing:2px;text-transform:uppercase;color:var(--accent);margin:0 0 10px}
+h1{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(40px,6vw,58px);line-height:1.1;margin:0 0 12px}
+h2{font-family:'Cormorant Garamond',serif;font-weight:600;font-size:28px;margin:44px 0 8px}
+.updated{color:var(--muted);font-size:15px;margin-bottom:36px}
+ul{padding-left:22px} li{margin-bottom:6px}
+.note{background:#fff;border:1px solid var(--line);border-left:3px solid var(--accent);padding:18px 22px;margin:28px 0}
+footer{border-top:1px solid var(--line);padding:28px 6vw;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px;font-size:14px;color:var(--muted)}
+footer a{color:var(--muted);margin-left:18px;text-decoration:none} footer a:hover{color:var(--ink)}
+</style>
 </head>
 <body>
-<div class="wrap">
 <header>
-<a class="logo" href="index.html">Beauty &amp; You</a>
-<nav><a href="index.html#categories">Categories</a><a href="index.html#guides">Guides</a><a href="index.html#about">About</a></nav>
+  <a class="logo" href="index.html">Beauty &amp; You</a>
+  <nav><a href="index.html#categories">Categories</a><a href="index.html#guides">Guides</a><a href="about.html">About</a></nav>
 </header>
 <main>
-<article>
-<a class="back" href="index.html">Back to home</a>
-<h1>About Beauty &amp; You</h1>
 
-<p>Beauty &amp; You is a fashion and accessories guide for women who love to look elegant without overspending. We write simple, practical guides on bags, jewelry, scarves and more, so you can choose pieces with confidence.</p>
+<p class="kicker">About us</p>
+<h1>Everyday elegance, for less</h1>
+<p>Beauty &amp; You is a style guide for women who love fashion and want to look polished every day – without paying luxury prices.</p>
+<p>We focus on the pieces that make an outfit: <strong>bags, jewelry, scarves and accessories</strong>. Instead of chasing every trend, we look for timeless styles that are easy to wear, flatter many looks and are good value for the money.</p>
+<h2>What you'll find here</h2>
+<ul>
+<li><strong>Practical style guides</strong> – how to choose, wear and combine accessories.</li>
+<li><strong>Curated picks</strong> – affordable pieces that look more expensive than they are.</li>
+<li><strong>Honest advice</strong> – what to check before you buy, so you shop with confidence.</li>
+</ul>
+<h2>How we choose</h2>
+<p>We recommend pieces based on style, versatility, materials and price. We are independent: brands cannot pay to be featured in our guides.</p>
+<div class="note">Some links on this site are affiliate links. If you buy through them we may earn a small commission, at no extra cost to you. <a href="disclosure.html">Read our affiliate disclosure</a>.</div>
+<h2>Get in touch</h2>
+<p>Questions, ideas or collaboration requests? Write to us at <a href="mailto:beuti0839@gmail.com">beuti0839@gmail.com</a>.</p>
 
-<h2>What we do</h2>
-<p>We research styles and share what to look for: the shape, the material, the details. We recommend products from online stores. We do not sell anything ourselves, so we do not hold stock, take orders or ship parcels. When you click a link to a store, you buy from that store, and the store handles your order, delivery and returns.</p>
-
-<h2>How this site earns money</h2>
-<p>Some links on this site are affiliate links. If you buy through them, we may earn a small commission at no extra cost to you. This never changes the price you pay. We only recommend styles and products we believe are useful to our readers.</p>
-
-<h2>Contact</h2>
-<p>Questions, ideas or corrections? Write to us at <a href="mailto:beuti0839@gmail.com">beuti0839@gmail.com</a>.</p>
-</article>
 </main>
-<footer>© 2026 Beauty &amp; You. All rights reserved. · <a href="about.html">About</a> · <a href="privacy.html">Privacy</a> · <a href="mailto:beuti0839@gmail.com">Contact</a></footer>
-</div>
+<footer>
+  <span>© 2026 Beauty &amp; You. All rights reserved.</span>
+  <span><a href="about.html">About</a><a href="privacy.html">Privacy</a><a href="disclosure.html">Affiliate Disclosure</a><a href="mailto:beuti0839@gmail.com">Contact</a></span>
+</footer>
 </body>
 </html>
