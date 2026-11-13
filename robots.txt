@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://beuti0839-commits.github.io/sitemap.xml
