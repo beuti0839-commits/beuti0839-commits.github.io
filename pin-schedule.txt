@@ -1,0 +1,103 @@
+BEAUTY & YOU - PINTEREST SCHEDULE, WEEK OF 15-21 NOV 2026
+Schedule each pin with Pinterest's "Publish at a later date" option, Israel time.
+Before scheduling, open the profile's Created + scheduled pins and SKIP any pin whose title is already there.
+Images: https://beuti0839-commits.github.io/<image path below>  (download, then upload)
+If Pinterest asks whether the image is AI-generated: images/guides/* and images/pins/gift-ideas.jpg, black-friday.jpg, everyday-bags.jpg, work-bag.jpg, luxe-bag-tip.jpg = AI-made (yes). queue/* = no.
+
+1) Sun 15 Nov 15:40
+Image: images/guides/gift-ideas.jpg
+Title: Gift Ideas for Her: Brown & Gold Edition
+Description: A cozy brown-and-gold gift guide: a leather-look tote, gold hoops, layered necklaces, a classic watch and a camel scarf. Easy gifts she'll actually use. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/black-friday-accessories.html
+Board: Black Friday Fashion Finds
+
+2) Sun 15 Nov 23:40
+Image: images/pins/queue/everyday-gold-jewelry-picks.jpg
+Title: 3 Easy Gold Jewelry Pieces You'll Wear Every Day
+Description: A dainty stud set, a paperclip bracelet stack and a tiny initial necklace: three simple gold-tone pieces that go with almost everything. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/jewelry.html
+Board: Minimal Jewelry to Wear Every Day
+
+3) Mon 16 Nov 15:40
+Image: images/guides/scarf-jewelry.jpg
+Title: Cozy Brown Knit Scarf + Gold Jewelry: Easy Winter Look
+Description: A chunky brown knit scarf with warm gold rings, hoops and a bangle. Simple pieces that make a winter coat look polished. See 4 easy ways to wear a scarf. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/scarves.html
+Board: How to Style a Scarf
+
+4) Mon 16 Nov 23:40
+Image: images/guides/tote.jpg
+Title: The Structured Brown Tote That Looks Expensive
+Description: A firm, clean-lined tote in warm brown holds a laptop, a book and lunch, and still looks elegant. What to check before you buy. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/bags.html
+Board: Affordable Designer-Look Bags
+
+5) Tue 17 Nov 15:40
+Image: images/guides/watch.jpg
+Title: Minimal Gold Watch With a Brown Leather Strap
+Description: A clean white dial, a slim gold case and a warm brown strap. How to pick the right size and match the metal to your jewelry. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/watches.html
+Board: Black Friday Fashion Finds
+
+6) Tue 17 Nov 23:40
+Image: images/pins/queue/minimal-jewelry-four-basics.jpg
+Title: Minimal Jewelry: Start With These 4 Basics
+Description: Small hoops, a fine chain, a simple ring and a slim bracelet cover most outfits, alone or layered. Tips on matching metals and layering. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/jewelry.html
+Board: Minimal Jewelry to Wear Every Day
+
+7) Wed 18 Nov 15:40
+Image: images/guides/sunglasses.jpg
+Title: Tortoiseshell Sunglasses That Suit Almost Every Face
+Description: Tortoiseshell frames with brown lenses go with everything. Find your face shape and the frame that balances it in our quick guide. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/sunglasses.html
+Board: Black Friday Fashion Finds
+
+8) Wed 18 Nov 23:40
+Image: images/guides/crossbody.jpg
+Title: Brown Suede Crossbody: The Hands-Free Everyday Bag
+Description: A soft brown crossbody with a gold clasp keeps your hands free on busy days. What to look for: an adjustable strap and a smooth, even finish. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/bags.html
+Board: Affordable Designer-Look Bags
+
+9) Thu 19 Nov 15:40
+Image: images/guides/hoops.jpg
+Title: Chunky Gold Hoops: The Earrings That Go With Everything
+Description: Bold but simple gold hoops for work, weekends and evenings. How to choose one metal tone and make every outfit look planned. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/jewelry.html
+Board: Minimal Jewelry to Wear Every Day
+
+10) Thu 19 Nov 23:40
+Image: images/guides/scarf.jpg
+Title: Camel Wrap Scarf: Warm for Weddings and Cold Evenings
+Description: A soft camel wrap keeps you warm at outdoor ceremonies and air-conditioned halls. Plus the other accessories every wedding guest needs. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/wedding-accessories.html
+Board: How to Style a Scarf
+
+11) Fri 20 Nov 15:40
+Image: images/pins/luxe-bag-tip.jpg
+Title: How to Make an Affordable Bag Look Luxurious
+Description: Pick neutral tones, structured shapes and gold-tone hardware, and store your bag stuffed to keep its shape. Small habits, expensive look. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/bags.html
+Board: Affordable Designer-Look Bags
+
+12) Fri 20 Nov 23:40
+Image: images/guides/necklace.jpg
+Title: Layered Gold Necklaces: How to Get the Spacing Right
+Description: Two or three chains look elegant when the lengths are 3-5 cm apart. Keep the thinnest chain shortest. Our easy layering guide. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/jewelry.html
+Board: Minimal Jewelry to Wear Every Day
+
+13) Sat 21 Nov 15:40
+Image: images/pins/black-friday.jpg
+Title: 10 Black Friday Accessories Worth Buying
+Description: Skip impulse buys. A checklist of 10 timeless accessories (bags, jewelry, watches and scarves) plus tips to spot a real deal. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/black-friday-accessories.html
+Board: Black Friday Fashion Finds
+
+14) Sat 21 Nov 23:40
+Image: images/guides/work-bag.jpg
+Title: 5 Things to Check Before You Buy a Work Bag
+Description: Size, shape, color, stitching and comfort: a simple checklist for a work bag that lasts for years. Contains affiliate links.
+Link: https://beuti0839-commits.github.io/work-bag.html
+Board: Affordable Designer-Look Bags
